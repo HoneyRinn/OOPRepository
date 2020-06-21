@@ -1,0 +1,7 @@
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\bin\Debug\oop5.exe.config
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\bin\Debug\oop5.exe
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\bin\Debug\oop5.pdb
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\obj\Debug\oop5.csprojAssemblyReference.cache
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\obj\Debug\oop5.csproj.CoreCompileInputs.cache
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\obj\Debug\oop5.exe
+E:\программирование\oopFedorovIR\oop5\oop5\oop5\obj\Debug\oop5.pdb

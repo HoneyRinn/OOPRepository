@@ -1,0 +1,7 @@
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\bin\Debug\oop6.1.exe.config
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\bin\Debug\oop6.1.exe
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\bin\Debug\oop6.1.pdb
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\obj\Debug\oop6.1.csprojAssemblyReference.cache
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\obj\Debug\oop6.1.csproj.CoreCompileInputs.cache
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\obj\Debug\oop6.1.exe
+E:\программирование\oopFedorovIR\oop6\oop6.1\oop6.1\obj\Debug\oop6.1.pdb

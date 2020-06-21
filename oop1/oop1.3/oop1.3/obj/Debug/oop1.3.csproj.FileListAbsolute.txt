@@ -1,0 +1,7 @@
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\bin\Debug\oop1.3.exe.config
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\bin\Debug\oop1.3.exe
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\bin\Debug\oop1.3.pdb
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\obj\Debug\oop1.3.csprojAssemblyReference.cache
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\obj\Debug\oop1.3.csproj.CoreCompileInputs.cache
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\obj\Debug\oop1.3.exe
+E:\программирование\oopFedorovIR\oop1.3\oop1.3\obj\Debug\oop1.3.pdb
